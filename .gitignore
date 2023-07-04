@@ -1,0 +1,10 @@
+/.idea
+/.github
+/vendor/
+composer.lock
+*.cache
+*.log
+.git
+.php-cs-fixer.php
+.phpstorm.meta.php
+phpunit.xml
