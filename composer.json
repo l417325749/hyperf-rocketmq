@@ -1,5 +1,5 @@
 {
-  "name": "hyperf/rocketmq",
+  "name": "lpb/hyperf-rocketmq",
   "type": "library",
   "license": "MIT",
   "keywords": [
@@ -10,11 +10,6 @@
   "autoload": {
     "psr-4": {
       "Hyperf\\RocketMQ\\": "src/"
-    }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "HyperfTest\\": "tests"
     }
   },
   "require": {

@@ -1,9 +1,7 @@
-# component-creator
-
 ## 引入Composer包
 
 ```
-composer require hyperf/rocketmq
+composer require lpb/hyperf-rocketmq
 ```
 
 ## 新建生产者
