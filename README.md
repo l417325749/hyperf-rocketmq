@@ -3,6 +3,11 @@
 ```
 composer require lpb/hyperf-rocketmq
 ```
+## 发布配置文件
+```
+php bin/hyperf.php vendor:publish lpb/hyperf-rocketmq
+```
+
 
 ## 新建生产者
 
